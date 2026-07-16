@@ -95,7 +95,7 @@
 ### Outros
 <a href="https://github.com/bielzinmene">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,vscode,intellij,latex&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,vscode,idea,latex&perline=4" /> 
 </div>
 </a>
  </td>
