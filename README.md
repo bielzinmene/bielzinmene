@@ -101,10 +101,6 @@
  </td>
 </tr></table>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Quartus_II-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus II" />
-</div>
-
 
 ## Conecte-se comigo:
 <div align="center">
@@ -134,13 +130,6 @@
  </p>
 
 <br>
-
-<div id="header" align="center">
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bielzinmene" alt="Trophies" /></a> </p>
-
-  <img src="https://komarev.com/ghpvc/?username=bielzinmene&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
