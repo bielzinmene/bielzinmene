@@ -38,7 +38,7 @@
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <a href="https://github.com/SEU_USUARIO_GITHUB/NOME_DO_REPOSITORIO_REDES">🔗 Ver Repositório</a>
+      <a href="https://github.com/arthuneas/ProjectOutlook">🔗 Ver Repositório</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Preditor de Diabetes (Redes Neurais / IA)</h3>
