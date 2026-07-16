@@ -95,11 +95,15 @@
 ### Outros
 <a href="https://github.com/bielzinmene">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,vscode,Quartus_II,latex&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,vscode,intellij,latex&perline=4" /> 
 </div>
 </a>
  </td>
 </tr></table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Quartus_II-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus II" />
+</div>
 
 
 ## Conecte-se comigo:
