@@ -77,25 +77,25 @@
 ### Linguagens
 <a href="https://github.com/bielzinmene">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=java,c,python&perline=3" /> 
+       <img src="https://skillicons.dev/icons?i=java,c,cpp,python&perline=4" /> 
 </div>
 </a>
 
 </td><td valign="top" width="33%">
   
 ### Ferramentas 
-<a href="https://github.com/bielzinmene">
+<a href="https://github.com/SEU_USUARIO_GITHUB">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=linux,docker,bash&perline=3" /> 
+       <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&perline=4" /> 
 </div>
 </a>
 
 </td><td valign="top" width="33%">
 
 ### Outros
-<a href="https://github.com/bielzinmene">
+<a href="https://github.com/SEU_USUARIO_GITHUB">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" /> 
+       <img src="https://skillicons.dev/icons?i=linux,docker,firebase,latex&perline=4" /> 
 </div>
 </a>
  </td>
