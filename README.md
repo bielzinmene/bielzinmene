@@ -19,8 +19,7 @@
 - 🎓 Estudante de Ciência da Computação na Universidade de Brasília (UnB).
 - 💼 Trabalho no Ministério da Fazenda como Gestor de Conteúdo Web.
 - 💻 Aprofundando conhecimentos em Programação Orientada a Objetos principalmente em Java, além de forte base em C e Python.
-- ⚙️ Experiência em projetos de lógica digital (Quartus II) e administração de redes, incluindo configuração de servidores FTP e contêineres Docker no Linux.
-- ⚽ Desenvolvedor do "Sistema de Gerenciamento da Copa do Mundo 2026" (Projeto da disciplina Técnicas de Programação 1 ofertado na UnB).
+- ⚙️ Experiência em Projetos práticos do hardware ao software: de lógica digital (Quartus II) e redes (TCP/UDP/Docker no Linux) ao desenvolvimento do "Sistema da Copa do Mundo 2026" em Java.
   
 ## 🚀 Projetos em Destaque / Highlighted Projects:
 
