@@ -54,7 +54,7 @@
         <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       </p>
-      <a href="https://github.com/SEU_USUARIO_GITHUB/NOME_DO_REPOSITORIO_IA">🔗 Ver Repositório</a>
+      <a href="https://github.com/bielzinmene/diabetes-prediction-project">🔗 Ver Repositório</a>
     </td>
   </tr>
   <tr>
