@@ -21,8 +21,7 @@
 - 💻 Aprofundando conhecimentos em Programação Orientada a Objetos principalmente em Java, além de forte base em C e Python.
 - ⚙️ Experiência em Projetos práticos do hardware ao software: de lógica digital (Quartus II) e redes (TCP/UDP/Docker no Linux) ao desenvolvimento do "Sistema da Copa do Mundo 2026" em Java.
   
-## 🚀 Projetos em Destaque / Highlighted Projects:
-
+## 🚀 Projetos em Destaque:
 <table>
   <tr>
     <td width="50%" valign="top">
