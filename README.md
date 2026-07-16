@@ -84,18 +84,18 @@
 </td><td valign="top" width="33%">
   
 ### Ferramentas 
-<a href="https://github.com/SEU_USUARIO_GITHUB">
+<a href="https://github.com/bielzinmene">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=linux,docker,bash,github&perline=4" /> 
 </div>
 </a>
 
 </td><td valign="top" width="33%">
 
 ### Outros
-<a href="https://github.com/SEU_USUARIO_GITHUB">
+<a href="https://github.com/bielzinmene">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=linux,docker,firebase,latex&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,vscode,quartus,latex&perline=4" /> 
 </div>
 </a>
  </td>
