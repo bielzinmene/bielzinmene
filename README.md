@@ -1,4 +1,4 @@
-# Olá, sou o Gabriel!
+# Olá!
 
 <pre>
                                   ___           ___           ___       ___       ___     
