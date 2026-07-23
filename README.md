@@ -19,13 +19,12 @@
 - 🎓 Estudante de Ciência da Computação na Universidade de Brasília (UnB).
 - 💼 Trabalho no Ministério da Fazenda como Gestor de Conteúdo Web.
 - 💻 Aprofundando conhecimentos em Programação Orientada a Objetos principalmente em Java, além de forte base em C e Python.
-- ⚙️ Experiência em Projetos práticos do hardware ao software: de lógica digital (Quartus II) e redes (TCP/UDP/Docker no Linux) ao desenvolvimento do "Sistema da Copa do Mundo 2026" em Java.
   
 ## 🚀 Projetos em Destaque:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ Clone do OneDrive (Sistemas de Redes)</h3>
+      <h3>☁️ OneDrive (Sistemas de Redes)</h3>
       <p>Desenvolvimento de uma aplicação cliente-servidor multithread para replicar o comportamento de sincronização automática e persistência de arquivos em nuvem.</p>
       <ul>
         <li>Sincronização bidirecional em tempo real.</li>
@@ -40,7 +39,7 @@
       <a href="https://github.com/arthuneas/ProjectOutlook">🔗 Ver Repositório</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Preditor de Diabetes (Redes Neurais / IA)</h3>
+      <h3>🧠 Preditor de Diabetes (Redes Neurais)</h3>
       <p>Modelo inteligente baseado em redes neurais artificiais projetado para analisar parâmetros clínicos de pacientes e prever a probabilidade de diagnóstico de diabetes.</p>
       <ul>
         <li>Tratamento de dados e normalização estatística.</li>
