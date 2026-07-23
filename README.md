@@ -58,9 +58,10 @@
   <tr>
     <td colspan="2" align="center">
       <h3>🏆 Outros Projetos Notáveis</h3>
-      <p><strong>Copa do Mundo 2026:</strong> Sistema completo de gerenciamento de campeonatos de futebol desenvolvido em Java para a disciplina de Técnicas de Programação 1 (TP1).</p>
+      <p><strong>Crawler</strong> Automação em Python para mapeamento e extração de URLs de sites usando HTTP</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/python?style=flat-square&logo=openjdk&logoColor=white" />
+        <a href="https://github.com/bielzinmene/Crawler-Computer_Networks">🔗 Ver Repositório</a>
       </p>
     </td>
   </tr>
