@@ -58,7 +58,7 @@
   <tr>
     <td colspan="2" align="center">
       <h3>🏆 Outros Projetos Notáveis</h3>
-      <p><strong>Crawler</strong> Automação em Python para mapeamento e extração de URLs de sites usando HTTP</p>
+      <p><strong>Crawler: </strong> Automação em Python para mapeamento e extração de URLs de sites usando HTTP</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=openjdk&logoColor=white" />
         <a href="https://github.com/bielzinmene/Crawler-Computer_Networks">🔗 Ver Repositório</a>
